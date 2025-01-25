@@ -1,0 +1,29 @@
+.custom-border-shadow {
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+  }
+  
+  .text-danger {
+    color: red;
+  }
+  
+  .text-black {
+    color: black;
+  }
+  
+  .text-skyblue {
+    color: skyblue;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .text-decoration-none {
+    text-decoration: none;
+  }
+  
+  .bg-warning {
+    background-color: #ffc107;
+  }
+  

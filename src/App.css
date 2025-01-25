@@ -1,0 +1,24 @@
+.App {
+   text-align: center;
+  background-color: black; /* Set the background color to black */
+  min-height: 100vh; /* Ensure the background color covers the full viewport height */
+  color: #f0e68c;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; 
+  font-size: 250px;
+  color: #f0e68c;
+}
+.a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh; 
+  font-size: 250px;
+  margin-top:150px;
+  color: #f0e68c;
+}

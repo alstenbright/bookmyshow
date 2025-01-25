@@ -1,0 +1,32 @@
+.signup .container-fluid {
+    padding-top: 5rem;
+}
+
+.signup .card-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.signup .form-group {
+    margin-bottom: 1.5rem;
+}
+
+.signup .input-group-text {
+    background-color: #343a40;
+    color: white;
+}
+
+.signup .input-group .form-control {
+    width: 60%;
+}
+
+.signup .btn {
+    background-color: #007bff;
+    border: none;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.text-white {
+    color: white;
+}
